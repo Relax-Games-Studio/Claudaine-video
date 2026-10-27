@@ -1,0 +1,23 @@
+# downloaded or generated, see README
+assets/
+blend/*.blend
+blend/*.blend1
+blend/*_report.json
+screens/
+renders/
+Claudaine.mp3
+
+# outputs of short/ and youtube/
+short/frames916/
+short/*.mp4
+short/*.jpg
+short/*.log
+short/upload/*.mp4
+short/upload/*.jpg
+short/upload/enc.*
+youtube/*.mp4
+youtube/*.jpg
+
+__pycache__/
+*.pyc
+.DS_Store
